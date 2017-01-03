@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-12-04T17:09:26" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '3de8bcd9-820c-46a1-8716-969fb0c8cabf' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::CaroChess' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Medium" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro' -  (Class)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnExit' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnExit_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnExit_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnExit_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnHelp' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnHelp_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnHelp_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnHelp_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnMusic' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnMusic_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnMusic_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnMusic_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnOpitions' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnOptions_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnOptions_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnOptions_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsComputer' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsComputer_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsComputer_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsComputer_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsPlayer' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsPlayer_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsPlayer_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnPlayervsPlayer_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnResetGame' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnResetGame_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnResetGame_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnResetGame_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnUndo' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnUndo_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnUndo_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::btnUndo_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Caro' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::ChangeMove' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::ChangeMove::luotDi' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::ChangeTextMusic' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::ChangeTime' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::ChangeTime::luotDi' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::CheckClickMouse' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::components' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Dispose' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Dispose::disposing' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::FrmGameCaro' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Grap' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::InitializeComponent' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblCoNguyHiem' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblGiayO' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblGiayX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblHaiChamO' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblHaiChamX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblLop' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblMSSV' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblPhutO' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblPhutX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblTacGia' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblThoiGianSuyNghi' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::lblY' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Minute' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::OldPoint' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::panel1' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::panel2' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::panel3' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pictureBox1' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pictureO' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pictureX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseClick' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseClick::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseClick::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseMove' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseMove::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_MouseMove::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_Paint' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_Paint::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::pnlBanCo_Paint::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::RunMinute' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::RunSecond' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Second' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::SetThongBaoNguyHiem' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::setTime' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::SetTime' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::setTime::minute' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::setTime::second' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::setTime::setNoti' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::setTime::setTime' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::Sound' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerO' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerO_Tick' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerO_Tick::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerO_Tick::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerX' -  (Property)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerX_Tick' -  (Operation)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerX_Tick::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::GameCaro::FrmGameCaro::timerX_Tick::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Collections' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Collections::Generic::Stack' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Collections::Generic::Stack&lt;Int32‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::ComponentModel' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::ComponentModel::IContainer' -  (Interface)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Drawing' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Drawing::Graphics' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::EventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Media' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Media::SoundPlayer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms' -  (Package)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::Button' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::Form' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::Label' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::MouseEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::PaintEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::Panel' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::PictureBox' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'UMLCaro::System::Windows::Forms::Timer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: UMLCaro::GameCaro::FrmGameCaro to UMLCaro::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: UMLCaro::System::Windows::Forms::PaintEventArgs to UMLCaro::System::EventArgs (Generalization)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: UMLCaro::System::Windows::Forms::MouseEventArgs to UMLCaro::System::EventArgs (Generalization)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: UMLCaro::GameCaro::frmExit to UMLCaro::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: UMLCaro::GameCaro::frmOptions to UMLCaro::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="High" Text="(16) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-12-04T17:09:31" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
